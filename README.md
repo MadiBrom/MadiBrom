@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... front end web dev
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me... mlb32595@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... They/She/He
 
 
 <!---

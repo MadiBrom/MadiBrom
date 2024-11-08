@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MadiBrom
 - 👀 I’m interested in ... learning opportunities
-- 🌱 I’m currently learning ... front end web dev and python!
+- 🌱 I’m currently learning ... python!
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me... mlb32595@gmail.com
 - 😄 Pronouns: ... They/She/He

@@ -11,6 +11,9 @@ I teach and tutor web at Fullstack Academy and Coco Coders. I started in special
 
 ## SKILLS
 Technical: JavaScript, CSS, HTML, SQL, React, Node, Express, PostgreSQL
+
 Tools: GitHub, VS Code, Postman, Prisma, pgAdmin, Vite, Netlify
+
 Methods: Test-driven development, accessibility first design, usability testing, project planning
+
 People: communication, collaboration, problem solving, time management, conflict resolution

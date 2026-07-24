@@ -4,9 +4,7 @@
 * 🌱 I am currently learning Unreal Engine
 * 💞️ I want to collaborate on games or websites
 * 📫 Reach me at madibromfield215@gmail.com
-* 😄 Pronouns: They/She/He
-
-I teach and tutor web at Fullstack Academy and Coco Coders. I started in special education and still bring that mindset to everything I build.
+* 😄 Pronouns: They/She
 
 
 ## SKILLS
